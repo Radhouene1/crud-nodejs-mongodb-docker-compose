@@ -1,9 +1,9 @@
-Requirements: docker and docker-compose should be installed
+Requirements: 
+docker and docker-compose should be installed
 
-Get the Code and run the project: 
-git clone
+clone the project and run it:
 
-cd 
+git clone 
 
 docker-compose up --build
 
